@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quiz-app-oyesters-traininig/static/css/main.ad31c133.chunk.css",
+    "main.js": "/quiz-app-oyesters-traininig/static/js/main.2f4d70d8.chunk.js",
+    "main.js.map": "/quiz-app-oyesters-traininig/static/js/main.2f4d70d8.chunk.js.map",
+    "runtime-main.js": "/quiz-app-oyesters-traininig/static/js/runtime-main.887b534e.js",
+    "runtime-main.js.map": "/quiz-app-oyesters-traininig/static/js/runtime-main.887b534e.js.map",
+    "static/css/2.4be38407.chunk.css": "/quiz-app-oyesters-traininig/static/css/2.4be38407.chunk.css",
+    "static/js/2.eb37bb7e.chunk.js": "/quiz-app-oyesters-traininig/static/js/2.eb37bb7e.chunk.js",
+    "static/js/2.eb37bb7e.chunk.js.map": "/quiz-app-oyesters-traininig/static/js/2.eb37bb7e.chunk.js.map",
+    "index.html": "/quiz-app-oyesters-traininig/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/quiz-app-oyesters-traininig/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ad31c133.chunk.css.map": "/quiz-app-oyesters-traininig/static/css/main.ad31c133.chunk.css.map",
+    "static/js/2.eb37bb7e.chunk.js.LICENSE.txt": "/quiz-app-oyesters-traininig/static/js/2.eb37bb7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887b534e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.eb37bb7e.chunk.js",
+    "static/css/main.ad31c133.chunk.css",
+    "static/js/main.2f4d70d8.chunk.js"
+  ]
+}
